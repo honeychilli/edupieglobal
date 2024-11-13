@@ -38,7 +38,7 @@ const About = () => {
           />
 
 <h4 className="text-2xl font-medium text-gray-800 "> M Bhimsen</h4>
-            <p className="text-lg text-gray-600">Director, Edu-Pie Global, LLP</p>
+            <p className="text-lg text-gray-600">Director,  , LLP</p>
             <p className="mt-4 text-lg text-gray-700">
             M Bhimsen is a visionary leader with over 20 years of experience in the corporate and education sectors. 
               His passion for shaping young minds and empowering students to achieve their career goals led him to establish EDU-PIE GLOBAL.
