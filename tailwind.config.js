@@ -4,6 +4,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-  base:"/edupieglobal/",
+  base:"/Edu-Pie-Global/",
   plugins: [],
 }
