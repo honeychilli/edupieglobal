@@ -7,6 +7,7 @@ import About from './pages/About.jsx/';
 import Programs from './pages/Programs.jsx/';
 import Contact from './pages/Contact.jsx/';
 import './index.css'
+import ProgramDetail from './pages/ProgramDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -17,6 +18,7 @@ const router = createBrowserRouter([
       { path: 'about', element: <About /> },
       { path: 'programs', element: <Programs /> },
       { path: 'contact', element: <Contact /> },
+      {path: 'program/:id', element: <ProgramDetail />},
     ],
   },
 ]);
